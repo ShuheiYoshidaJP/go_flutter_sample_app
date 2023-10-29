@@ -1,6 +1,6 @@
 # サーバーサイドの要件
 
-## 使用技術
+## 使用技術:
 
 * Go
 * GraphQL
@@ -36,3 +36,7 @@ PostgreSQLを使用してください。ユーザーの情報を保存するた�
 ## サーバー起動:
 
 サーバーはlocalhost:8080で起動し、GraphQLのエンドポイントとして/graphqlを提供してください。
+
+## 参考サイト:
+
+[Goで学ぶGraphQLサーバーサイド入門](https://zenn.dev/hsaki/books/golang-graphql)
